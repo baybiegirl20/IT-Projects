@@ -40,19 +40,21 @@ Packet Tracer File
 
 The full Packet Tracer simulation file is included here:
 
-LabCore_Network_Design.pkt
+[LabCore_Network_Design.pkt](https://github.com/baybiegirl20/IT-Projects/blob/Networking-Projects/LabCore%20Network%20Design/LabCore%20Network%20Design.pkt)
 
 You can open this with Cisco Packet Tracer to see the full network setup and configurations.
 
+
 Quick Links
 
-Show Commands Folder
+[Show Commands Folder](https://github.com/baybiegirl20/IT-Projects/tree/Networking-Projects/LabCore%20Network%20Design/LabCore%20Network%20Design%20Screenshots/Show%20Commands)
 
-Troubleshooting Folder
+[Troubleshooting Folder](https://github.com/baybiegirl20/IT-Projects/tree/Networking-Projects/LabCore%20Network%20Design/LabCore%20Network%20Design%20Screenshots/Troubleshooting)
 
-All Screenshots Folder
+[All Screenshots Folder](https://github.com/baybiegirl20/IT-Projects/tree/Networking-Projects/LabCore%20Network%20Design/LabCore%20Network%20Design%20Screenshots)
 
-Final Report Document
+[Final Report Document](https://github.com/baybiegirl20/IT-Projects/blob/Networking-Projects/LabCore%20Network%20Design/LabCore%20Network%20Design.docx)
+
 
 Tools Used
 
@@ -61,6 +63,7 @@ Cisco Packet Tracer
 Microsoft Word
 
 GitHub
+
 
 Lessons Learned
 
