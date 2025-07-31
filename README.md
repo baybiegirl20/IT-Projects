@@ -1,58 +1,65 @@
-LabCore Network Design
-This project covers the design, configuration, and testing of a network using Cisco Packet Tracer. It includes startup configurations, command output screenshots, topology diagrams, troubleshooting notes, and verification results. Everything is organized into folders with links for easy reference.
+IT Projects Repository
 
-Folder Structure
-All screenshots and related files are stored in the LabCore Network Design Screenshots folder, divided as follows:
+Welcome! This repository is organized into two primary branches based on focus areas:
 
-Router/ – Configuration screenshots and outputs from the router
+Networking-Projects Branch  – for all hands-on networking work
 
-Switch 1/ – Screenshots of Switch 1 configurations
+Cybersecurity-Projects Branch  – for cybersecurity-focused labs and explorations
 
-Switch 2/ – Not included in the main document since it’s very similar to Switch 1, but configs were done and verified
+Each branch includes lab environments, configuration files, tools used, screenshots, and summaries of what I’ve learned through each build or test.
 
-Show Commands/ – Screenshots of all required show commands (like show ip interface brief, show vlan brief, etc.)
+Branch Overview
 
-Topology/ – Starting and completed network topology diagrams
+Networking-Projects
 
-Test & Verify/ – Results from connectivity tests (pings, traceroutes)
+Projects under this branch focus on:
 
-Troubleshooting/ – Screenshots and notes on issues encountered and how they were resolved
+Network design & planning
 
-Final Report Includes
-Project overview and objectives
+Cisco device configuration (routers, switches, etc.)
 
-Starting and final topology screenshots
+Hands-on labs using Packet Tracer
 
-Configuration details and snippets for Router and Switch 1
+Show commands, routing tables, and troubleshooting steps
 
-Notes on why Switch 2 screenshots are omitted
+Example project types:
 
-Verification and testing results
+Topology builds
 
-Troubleshooting explanations
+Subnetting and IP addressing
 
-Reflection on what was learned
+Static and dynamic routing labs
 
-Packet Tracer File
-The full Packet Tracer simulation file is included here:
-LabCore_Network_Design.pkt
-You can open this with Cisco Packet Tracer to see the full network setup and configurations.
+Cybersecurity-Projects
 
-Quick Links
-Show Commands Folder
+Projects in this branch highlight:
 
-Troubleshooting Folder
+Vulnerability scanning
 
-All Screenshots Folder
+Introductory penetration testing
 
-Final Report Document
+Use of tools in Kali Linux
 
-Tools Used
-Cisco Packet Tracer
+Exploits run against Metasploitable2 and other intentionally vulnerable systems
 
-Microsoft Word
+Example project types:
 
-GitHub
+VM-based lab exercises
 
-Lessons Learned
-This project helped me get hands-on experience with core network concepts like VLANs, inter-VLAN routing, and device configuration. It reinforced how important it is to verify configurations using show commands and methodically troubleshoot issues. Documenting the process and organizing files clearly made reviewing and sharing the project much easier.
+Port scanning, enumeration, and exploitation
+
+Network hardening and system defense testing
+
+Tools & Environments
+
+Cisco Packet Tracer – networking simulations
+
+Kali Linux / Metasploitable2 – penetration testing labs
+
+VirtualBox / VMware – VM-based testing environments
+
+Command-line tools – used across both tracks for diagnostics and control
+
+Purpose
+
+This repo is my learning playground — a place to track what I’ve worked on, experiment with tools and techniques, and build a strong foundation across Networking and Cybersecurity. Each project documents the challenges, solutions, and hands-on knowledge I gain over time.
