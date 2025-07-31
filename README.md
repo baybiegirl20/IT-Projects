@@ -1,58 +1,48 @@
-LabCore Network Design
-This project covers the design, configuration, and testing of a network using Cisco Packet Tracer. It includes startup configurations, command output screenshots, topology diagrams, troubleshooting notes, and verification results. Everything is organized into folders with links for easy reference.
+Networking Projects
 
-Folder Structure
-All screenshots and related files are stored in the LabCore Network Design Screenshots folder, divided as follows:
+Welcome to my collection of networking projects! This repository contains various hands-on labs, network designs, and configurations that I’ve worked on to build my practical skills in networking technologies.
 
-Router/ – Configuration screenshots and outputs from the router
 
-Switch 1/ – Screenshots of Switch 1 configurations
+What You’ll Find Here:
 
-Switch 2/ – Not included in the main document since it’s very similar to Switch 1, but configs were done and verified
+Network topology designs and diagrams
 
-Show Commands/ – Screenshots of all required show commands (like show ip interface brief, show vlan brief, etc.)
+Device configurations for switches, routers, and other equipment
 
-Topology/ – Starting and completed network topology diagrams
+VLAN setups, inter-VLAN routing, DHCP configurations, and more
 
-Test & Verify/ – Results from connectivity tests (pings, traceroutes)
+Documentation explaining project objectives, steps, and results
 
-Troubleshooting/ – Screenshots and notes on issues encountered and how they were resolved
+Troubleshooting notes and testing results
 
-Final Report Includes
-Project overview and objectives
+Packet Tracer files and other lab resources
 
-Starting and final topology screenshots
 
-Configuration details and snippets for Router and Switch 1
 
-Notes on why Switch 2 screenshots are omitted
+How to Use This Repository:
 
-Verification and testing results
+Each project is organized in its own folder with:
 
-Troubleshooting explanations
+A detailed project document or README specific to that project
 
-Reflection on what was learned
+Configuration files and screenshots
 
-Packet Tracer File
-The full Packet Tracer simulation file is included here:
-LabCore_Network_Design.pkt
-You can open this with Cisco Packet Tracer to see the full network setup and configurations.
+Simulation files (e.g., Cisco Packet Tracer .pkt files)
 
-Quick Links
-Show Commands Folder
+Feel free to explore each project folder for step-by-step guides and supporting materials.
 
-Troubleshooting Folder
 
-All Screenshots Folder
 
-Final Report Document
+Tools & Technologies:
 
-Tools Used
 Cisco Packet Tracer
 
-Microsoft Word
+Cisco IOS command line interface
 
-GitHub
+Various networking devices and simulated endpoints
 
-Lessons Learned
-This project helped me get hands-on experience with core network concepts like VLANs, inter-VLAN routing, and device configuration. It reinforced how important it is to verify configurations using show commands and methodically troubleshoot issues. Documenting the process and organizing files clearly made reviewing and sharing the project much easier.
+
+
+About Me:
+
+I am actively developing my networking skills through hands-on projects and practical labs. This repository serves as a portfolio to demonstrate my understanding of networking concepts, device configurations, and network troubleshooting in simulated environments.
